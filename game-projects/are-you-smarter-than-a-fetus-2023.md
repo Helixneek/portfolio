@@ -38,6 +38,8 @@ Technical features of the game may include a user interface, database management
 This game was made for a college assignment. It was made with C# in the Unity Engine alongside [ReXIGnoTuS](https://rexignotus.itch.io/). The sprites were created by [Velius](https://vel1us.itch.io/).
 {% endhint %}
 
+**My roles in this project:** Project Lead, Programmer, Gamemode Designer, Sound Manager
+
 Other people who worked on this:
 
 {% embed url="https://vel1us.itch.io/" %}

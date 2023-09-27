@@ -16,13 +16,13 @@ layout:
 
 [Belajar Dasar Pemograman Javascript - Dicoding Indonesia](https://www.dicoding.com/certificates/1RXYO98E3PVM)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
 [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) - Dicoding Indonesia](https://www.dicoding.com/certificates/1RXYOVNDQPVM)
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -37,3 +37,13 @@ layout:
 <figure><img src="../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
+
+PCAP: Programming Essentials in Python - Cisco Netacad
+
+<figure><img src="../.gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
+
+***
+
+JavaScript Essentials 1 (JSE) - Cisco Netacad
+
+<figure><img src="../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>

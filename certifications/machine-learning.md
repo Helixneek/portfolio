@@ -35,3 +35,9 @@ layout:
 [Belajar Pengembangan Machine Learning - Dicoding Indonesia](https://www.dicoding.com/certificates/07Z6GKJDYXQR)
 
 <figure><img src="../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
+
+***
+
+Explore ML with Crowdsource - Crowdsource by Google
+
+<figure><img src="../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure>

@@ -14,6 +14,8 @@ layout:
 
 # FGO SC Calculator
 
-**FGO SC** (Fate/Grand Order Servant Coin) Calculator is a helper website for the mobile game Fate/Grand Order. It lets you check the amount of Servant Coins you have based on which Servant, their bond level and their NP level.
+**FGO SC** (Fate/Grand Order Servant Coin) Calculator is a helper website for the mobile game Fate/Grand Order. This lets you check the amount of Servant Coins you have based on which Servant, their bond level and their NP level.
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption><p>Page display</p></figcaption></figure>
 
 {% embed url="https://github.com/Helixneek/fgo-sc-calculator" %}
