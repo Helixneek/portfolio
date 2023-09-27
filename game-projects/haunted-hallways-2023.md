@@ -39,7 +39,7 @@ This game features:
 <figure><img src="../.gitbook/assets/image (18).png" alt="" width="563"><figcaption><p>Development screenshot</p></figcaption></figure>
 
 {% hint style="info" %}
-This game was made for the GEMASTIK 2023 Game Development competition. It was made with C# in the Unity Engine alongside [ReXIGnoTuS](https://rexignotus.itch.io/). The sprites were created by [Velius](https://vel1us.itch.io/).
+This game was made for the GEMASTIK 2023 Game Development competition. It was made with C# in the Unity Engine alongside [ReXIGnoTuS](https://rexignotus.itch.io/). The sprites were created by [Velius](https://vel1us.itch.io/). I also composed the music for the game.
 {% endhint %}
 
 **My roles in this project:** Project Lead, Programmer, Game Designer, Composer
