@@ -16,7 +16,7 @@ layout:
 
 [Belajar Dasar Pemograman Javascript - Dicoding Indonesia](https://www.dicoding.com/certificates/1RXYO98E3PVM)
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
