@@ -7,7 +7,7 @@
   * [Immunodrive (2022)](game-projects/immunodrive-2022.md)
   * [Are You Smarter than a Fetus? (2023)](game-projects/are-you-smarter-than-a-fetus-2023.md)
   * [Haunted Hallways (2023)](game-projects/haunted-hallways-2023.md)
-  * [Rogue Resurgence (2023)](game-projects/rogue-resurgence-2023.md)
+  * [Rogue Resurgence (2023)](game-projects/rocket-rider-2023.md)
   * [Cosmic Clash (2024)](game-projects/cosmic-clash-2024.md)
   * [Karirku Games (2024)](game-projects/karirku-games-2024.md)
 * [💾 Machine Learning Projects](machine-learning-projects/README.md)
